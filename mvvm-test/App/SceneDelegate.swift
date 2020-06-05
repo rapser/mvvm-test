@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  mvvm-test
+//  PagosDigitales
 //
 //  Created by miguel tomairo on 5/28/20.
 //  Copyright © 2020 miguel tomairo. All rights reserved.
@@ -8,6 +8,7 @@
 
 import UIKit
 
+@available(iOS 13.0, *)
 class SceneDelegate: UIResponder, UIWindowSceneDelegate {
 
     var window: UIWindow?
